@@ -19,7 +19,8 @@ namespace TestProject
 
         public void SendMessage()
         {
-            Console.WriteLine("Andrews Message.");
+            Console.WriteLine("New Message.");
+            Console.WriteLine("New New Message.");
         }
     }
 }
