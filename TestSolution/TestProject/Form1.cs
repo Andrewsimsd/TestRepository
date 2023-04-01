@@ -19,7 +19,7 @@ namespace TestProject
 
         public void SendMessage()
         {
-            Console.WriteLine("Chris' Message.");
+            Console.WriteLine("Andrews Message.");
         }
     }
 }
